@@ -19,6 +19,9 @@ This project was based on creating a README.md file where there is a title, desc
 - Index.js
 - GItHub
 - package.json
-
+ 
 ## Questions
 For any questions, please contact [johria.mehboob@gmail.com].
+
+![screenshot](./9-HW.png)
+[do not forget to visit my page to view the application] (https://github.com/johria123/module-9HW)
